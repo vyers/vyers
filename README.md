@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hey there 👋🏼
 
-<!--
-**vyers/vyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a software developer who loves coding and building products.
 
-Here are some ideas to get you started:
+### Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Fooday](https://foodayy.vercel.app): Meals generator
+
+### Let's Connect
+
+- Twitter: [@vyers_](https://www.x.com/vyers_)
+
+- Web: [vyers.dev](https://www.vyers.dev)
+
+### My Stats
+
+<img src="https://streak-stats.demolab.com?user=vyers&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
